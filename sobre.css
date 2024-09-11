@@ -20,7 +20,7 @@ body{
     display: flex;
     flex-direction: column;
     padding-inline: 64px;
-    background-color: lightgray; 
+    background-color: rgb(176, 219, 186);
 }
 
 header{
@@ -74,10 +74,10 @@ main{
 }
 
 .imagem{
-    height: 103%;
+    height: 100%;
     width: 40%;
-    background-image: url('img/adkidsitapevi.jpeg');
-    background-size: 800px;
+    background-image: url('/img/kids\ -\ cópia.png');
+    background-size: 750px;
     background-position: center;
 }
 
