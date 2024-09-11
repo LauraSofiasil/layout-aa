@@ -30,7 +30,7 @@ header{
 }
 
 .logo{
-    background-color: aqua;
+    background-color: lightgray;
     height: 64px;
     width: 64px;
 }
@@ -80,16 +80,18 @@ main{
     height: 96px;
     width: 96px;
     border-radius: 50%;
-    background-color: black;
+    background-color: lightgray;
 }
 
 .imagem{
     height: 100%;
     width: 50%;
-    background-color: brown;
+    background-color: lightgray;
 }
 
 footer{
-    background-color: yellow;
-    height: 50px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
