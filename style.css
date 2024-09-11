@@ -33,6 +33,8 @@ header{
     background-color: lightgray;
     height: 64px;
     width: 64px;
+    background-image: url('/img/logokids.jpeg');
+    background-size: 65px;
 }
 
 .menu ul{
